@@ -137,7 +137,7 @@
 				<Title>percentage_privategreen</Title>
 				<Abstract>GH:percentage_privategreen ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/ecodiv/Mappia_test/releases/download/Map_Download/percentage_privategreen.zip˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸12</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="4.969748895247264" miny="51.53540460370321" maxx="5.16178143123806" maxy="51.62033219535387"></LatLonBoundingBox>
